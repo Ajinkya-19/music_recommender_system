@@ -91,7 +91,7 @@ The project is hosted on the **Render** platform, a popular cloud platform for d
 
 - **Author**: Ajinkya Chavan
 - **GitHub**: [Ajinkya-19](https://github.com/Ajinkya-19)
-- **LinkedIn Profile**: *(Provide your LinkedIn profile link)*
+- **LinkedIn Profile**: (www.linkedin.com/in/ajinkya-chavan-386a79324)
 
 ---
 
