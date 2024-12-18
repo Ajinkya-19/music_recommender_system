@@ -10,7 +10,7 @@ This is a **music recommender system** that uses **content-based filtering** to 
 
 The project is designed to be interactive, making it user-friendly and engaging.
 
-![App Overview](https://via.placeholder.com/800x400.png?text=App+Overview)
+![App Overview]([https://via.placeholder.com/800x400.png?text=App+Overview](https://github.com/Ajinkya-19/music_recommender_system/blob/main/Screenshot%20(126).png))
 
 ---
 
