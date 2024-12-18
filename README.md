@@ -1,2 +1,4 @@
 # music_recommender_system
 The Music recommender system is recommendation system which recommend music based on the user input and featch data from spotify api.
+# Deploying link -
+https://music-recommender-system-1-0sea.onrender.com/
